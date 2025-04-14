@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adservicesConfig>
+    <!-- This is a custom config file to resolve the conflict between AdMob and Firebase Analytics -->
+</adservicesConfig> 
